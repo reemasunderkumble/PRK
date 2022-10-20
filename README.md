@@ -35,3 +35,15 @@ The links to the required files are in the table below:
 | Sentiment analysis.ipynb | Python file to perform data cleaning, sentiment analysis and topic modelling |
 | ego.graphml | first degree network of the selected entity from topic modelling (virat kohli) |
 | Recent data retrieval.ipynb | Python code to retrieve data from twitter for a given query |
+
+## Files needed for the above analysis to perform
+The links to the required files are in the table below:
+
+| FileName     | Description |
+| :---:      | :------------ |
+| twitterClient.py | Python file folding the API credential to connect to twitter |
+| TwitterProcessing.py | Python file to perform data cleaning |
+| worldcup.jsonl | Data collected from twitter for the #T20WorldCup |
+| negative-words.txt | Set of negative words to perform sentiment analysis based out of positive and negative words |
+| positive-words.txt | Set of positive words to perform sentiment analysis based out of positive and negative words |
+| Sentiment analysis.ipynb | Python file to perform data cleaning, sentiment analysis and topic modelling |
