@@ -47,3 +47,4 @@ The links to the required files are in the table below:
 | negative-words.txt | Set of negative words to perform sentiment analysis based out of positive and negative words |
 | positive-words.txt | Set of positive words to perform sentiment analysis based out of positive and negative words |
 | Sentiment analysis.ipynb | Python file to perform data cleaning, sentiment analysis and topic modelling |
+| Social_media_community_detection.ipynb | Python file to perform community detection  |
