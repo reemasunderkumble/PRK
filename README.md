@@ -33,6 +33,8 @@ The links to the required files are in the table below:
 | negative-words.txt | Set of negative words to perform sentiment analysis based out of positive and negative words |
 | positive-words.txt | Set of positive words to perform sentiment analysis based out of positive and negative words |
 | Sentiment analysis.ipynb | Python file to perform data cleaning, sentiment analysis and topic modelling |
+| Social_media_community_detection.ipynb | Python file to perform community detection  |
+| Social_media_ego_net.ipynb | Python file to generate ego nets  |
 | ego.graphml | first degree network of the selected entity from topic modelling (virat kohli) |
 | Recent data retrieval.ipynb | Python code to retrieve data from twitter for a given query |
 
@@ -48,3 +50,4 @@ The links to the required files are in the table below:
 | positive-words.txt | Set of positive words to perform sentiment analysis based out of positive and negative words |
 | Sentiment analysis.ipynb | Python file to perform data cleaning, sentiment analysis and topic modelling |
 | Social_media_community_detection.ipynb | Python file to perform community detection  |
+| Social_media_ego_net.ipynb | Python file to generate ego nets  |
