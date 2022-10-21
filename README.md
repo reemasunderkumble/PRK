@@ -51,3 +51,4 @@ The links to the required files are in the table below:
 | Sentiment analysis.ipynb | Python file to perform data cleaning, sentiment analysis and topic modelling |
 | Social_media_community_detection.ipynb | Python file to perform community detection  |
 | Social_media_ego_net.ipynb | Python file to generate ego nets  |
+| community_detection.graphml | Community detection graphml file  |
